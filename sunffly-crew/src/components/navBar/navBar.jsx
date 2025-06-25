@@ -1,5 +1,10 @@
 
 
-const navBar = () => {}
+const navBar = () => {
+    return (
+        <>
+        </>
+    )
+}
 
 export default navBar;

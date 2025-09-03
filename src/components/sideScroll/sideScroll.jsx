@@ -10,7 +10,8 @@ const SideScroll = () => {
                 <img src={desenho.imagem} className="h-9 w-10" />
             </div>
         );
-    });
+    }
+);
 
     return (
         <section className="w-screen h-32 flex items-center">
